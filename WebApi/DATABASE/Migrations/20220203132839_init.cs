@@ -4,7 +4,7 @@
 
 namespace DATABASE.Migrations
 {
-    public partial class InitialMigration : Migration
+    public partial class init : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -251,12 +251,12 @@ namespace DATABASE.Migrations
                 columns: new[] { "Id", "Date", "UserId" },
                 values: new object[,]
                 {
-                    { 1, "25.01.2022 12:46", 5 },
-                    { 2, "25.01.2022 12:46", 1 },
-                    { 3, "25.01.2022 12:46", 14 },
-                    { 4, "25.01.2022 12:46", 9 },
-                    { 5, "25.01.2022 12:46", 6 },
-                    { 6, "25.01.2022 12:46", 15 }
+                    { 1, "03.02.2022 16:28", 5 },
+                    { 2, "03.02.2022 16:28", 1 },
+                    { 3, "03.02.2022 16:28", 14 },
+                    { 4, "03.02.2022 16:28", 9 },
+                    { 5, "03.02.2022 16:28", 6 },
+                    { 6, "03.02.2022 16:28", 15 }
                 });
 
             migrationBuilder.InsertData(

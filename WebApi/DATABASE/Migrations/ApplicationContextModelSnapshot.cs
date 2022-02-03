@@ -206,37 +206,37 @@ namespace DATABASE.Migrations
                         new
                         {
                             Id = 1,
-                            Date = "25.01.2022 12:46",
+                            Date = "03.02.2022 16:28",
                             UserId = 5
                         },
                         new
                         {
                             Id = 2,
-                            Date = "25.01.2022 12:46",
+                            Date = "03.02.2022 16:28",
                             UserId = 1
                         },
                         new
                         {
                             Id = 3,
-                            Date = "25.01.2022 12:46",
+                            Date = "03.02.2022 16:28",
                             UserId = 14
                         },
                         new
                         {
                             Id = 4,
-                            Date = "25.01.2022 12:46",
+                            Date = "03.02.2022 16:28",
                             UserId = 9
                         },
                         new
                         {
                             Id = 5,
-                            Date = "25.01.2022 12:46",
+                            Date = "03.02.2022 16:28",
                             UserId = 6
                         },
                         new
                         {
                             Id = 6,
-                            Date = "25.01.2022 12:46",
+                            Date = "03.02.2022 16:28",
                             UserId = 15
                         });
                 });
